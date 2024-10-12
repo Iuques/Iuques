@@ -3,6 +3,7 @@
 ###
 
 <p align="left">My name is Pedro, im an Information Technology student from Natal-RN, Brazil.</p>
+<p align="left">Im interested in functional programming, discrete mathematics and artificial intelligence</p>
 
 ###
 
